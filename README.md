@@ -1,4 +1,4 @@
-# DESIGN LAB - CREATIVE DESIGNER SERVICES - Website development
+# DESIGN LAB - Website development
 
 <img src="https://i.imgur.com/TrWh18E.jpg">
 
